@@ -1,0 +1,39 @@
+{
+"products" :[
+{
+       "id": 1,
+    "name": "i phone 12",
+    "color": "red",
+    "description": "my iphone",
+    "image":
+        "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-12-blue-select-2020?wid=940&hei=1112&fmt=png-alpha&.v=1604343704000",
+    "price": 399
+},
+{
+    "id": 2,
+ "name": "Google pixel 5",
+ "color": "red",
+ "description": "Google Pixel 5 ",
+ "image":
+ "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-12-blue-select-2020?wid=940&hei=1112&fmt=png-alpha&.v=1604343704000",
+ "price": 499
+},
+{
+        "id": 3,
+     "name": "Macbook air",
+     "color": "red",
+     "description": "Macbook Air M1 13inch",
+     "image":
+     "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-12-blue-select-2020?wid=940&hei=1112&fmt=png-alpha&.v=1604343704000",
+     "price": 599
+ },
+ {
+    "id": 4,
+ "name": "i phone 15",
+ "color": "red",
+ "description": "my iphone",
+ "image":
+     "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-12-blue-select-2020?wid=940&hei=1112&fmt=png-alpha&.v=1604343704000",
+ "price": 599}
+]  
+}
